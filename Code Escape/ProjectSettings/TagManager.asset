@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Objeto
   - PlayerInteractionZone
+  - Jugador
   layers:
   - Default
   - TransparentFX
